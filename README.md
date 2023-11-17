@@ -1,2 +1,2 @@
-# Robotica-2023
-Códigos de los robots del Club de Robótica de Mecatrónica en ORT del 2023
+# Robótica 2023
+Aca están los códigos de los robots del Club de Robótica hechos en 2023
