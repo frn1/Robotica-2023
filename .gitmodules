@@ -1,0 +1,7 @@
+[submodule "Bob 2.0 (Fran)"]
+	path = Bob 2.0/Fran
+	url = https://github.com/frn1/Bob-2.0
+
+[submodule "Bob 2.0 (Isa)"]
+	path = Bob 2.0/Isa
+	url = https://github.com/isabellamastrangelo/Bob2.0
